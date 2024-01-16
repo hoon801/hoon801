@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=The%20beautiful%20thing%20aboutlearning%20is-nl-that%20no%20one%20can%20take%20it%20away%20from%20you.&fontSize=40&animation=fadeIn)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=The%20beautiful%20thing%20aboutlearning%20is-nl-that%20no%20one%20can%20take%20it%20away%20from%20you.&fontSize=40&animation=fadeIn&strokeWidth=1&fontAlignY=20)
 
 
 
 # 김병훈 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+끊임없이 성장하는 개발자가 되고 싶습니다.
 
 </br>
 
