@@ -9,7 +9,7 @@
 <div align="center">
 
   
-## 훌륭한 백엔드 개발자를 목표로 하고 있으며, 끊임없이 성장하는 개발자가 되고 싶습니다.
+### 훌륭한 백엔드 개발자를 목표로 하고 있으며, 끊임없이 성장하는 개발자가 되고 싶습니다.
 
 
 
@@ -40,7 +40,7 @@
 </div>
 <br>
 <br>
-<div align="center">
+
   
 ## :pushpin: Contact
 - E-mail: pqudgns0801@gmail.com
@@ -51,18 +51,18 @@
 
 ## :pushpin: Projects
 <hr>
+
 ### 금연다이어리
->업무 관리 시스템(BPS)를 기반으로한 FULLCALENDAR API를 활용해 금연 일정 관리 서비스를 제공하는 웹 페이지 개발
+>업무 관리 시스템(BPS)를 기반으로한 FULLCALENDAR API를 활용해 금연 일정 관리 서비스를 제공하는 웹 페이지 개발 
 >개발 기간: 2023.11.28 ~ 2023.12.13  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
->
->
+>[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/BB/blob/master/README.md)
 
+---
 <hr>
 ### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >세 번째 프로젝트 간략 소개  (개인 프로젝트)  
