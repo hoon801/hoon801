@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Byeonghoon_GitHub&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=The%20beautiful%20thing%20aboutlearning%20is-nl-that%20no%20one%20can%20take%20it%20away%20from%20you.&fontSize=40&animation=fadeIn)
 
 
 
