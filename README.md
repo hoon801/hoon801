@@ -1,19 +1,25 @@
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=The%20beautiful%20thing%20aboutlearning%20is-nl-that%20no%20one%20can%20take%20it%20away%20from%20you.&fontSize=40&animation=fadeIn&strokeWidth=1&fontAlignY=20)
 
+</div>
+
+## :pushpin: 김병훈 포트폴리오
+
+<div align="center">
+
+  
+## 훌륭한 백엔드 개발자를 목표로 하고 있으며, 끊임없이 성장하는 개발자가 되고 싶습니다.
 
 
-# 김병훈 포트폴리오
-끊임없이 성장하는 개발자가 되고 싶습니다.
 
-</br>
+</div>
 
-## :pushpin: Intro
-백엔드에 흥미가 있으며 백엔드 공부중입니다.
 
-</br>
 
-<br>
+
+
+
 <div align="center">
 
 ### 🛠 Stacks
@@ -37,28 +43,17 @@
 <div align="center">
   
 ## :pushpin: Contact
-- 이메일: pqudgns0801@gmail.com
+- E-mail: pqudgns0801@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/hoon801/KimByeonghoon
+- GitHub: https://github.com/hoon801/
 
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-BigData-19/dicogram.git)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/cbp.git) 참고
-
----
-
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+<hr>
+### 금연다이어리
+>업무 관리 시스템(BPS)를 기반으로한 FULLCALENDAR API를 활용해 금연 일정 관리 서비스를 제공하는 웹 페이지 개발
+>개발 기간: 2023.11.28 ~ 2023.12.13  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
@@ -68,8 +63,7 @@
 >
 >
 
----
-
+<hr>
 ### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >세 번째 프로젝트 간략 소개  (개인 프로젝트)  
 >개발 기간: 2018.1.18 ~ 2018.4.5  
