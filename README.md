@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=The%20beautiful%20thing%20aboutlearning%20is-nl-that%20no%20one%20can%20take%20it%20away%20from%20you.&fontSize=40&animation=fadeIn&strokeWidth=&fontAlignY=20)
 
 </div>
+</br>
+</br>
 
 ## :pushpin: 김병훈 포트폴리오
 
