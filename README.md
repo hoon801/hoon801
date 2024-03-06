@@ -70,12 +70,14 @@
 
 ---
 <hr>
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:
-
+### Medit
+>ResNet50 모델을 활용한 TTA-CXR 분석 기반 폐 질환 진단 서비스 : medit
+>오진을 방지하고 효과적인 치료 계획을 설립, 의사 결정에 도움을 주고자 만든 서비스 (팀 프로젝트)
+>개발 기간 : 2024. 01. 17 ~ 2024. 03. 06
+>
+>기술 스택 ▼
+>Java / SpringBoot / Python / Oracle / HTML / CSS / Javascript / JQuery / AWS
+>[프로젝트 상세 설명](https://github.com/not-null-i-want/medit/blob/main/README.md)
 
 
 
