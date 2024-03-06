@@ -58,8 +58,8 @@
 ## :pushpin: Projects
 <hr>
 
-### 금연다이어리
->업무 관리 시스템(BPS)를 기반으로한 FULLCALENDAR API를 활용해 금연 일정 관리 서비스를 제공하는 웹 페이지 개발 
+### 🚬📆 금연다이어리
+>업무 관리 시스템(BPS)를 기반으로한 FULLCALENDAR API를 활용해 금연 일정 관리 서비스를 제공하는 웹 페이지 개발 </br>
 >개발 기간: 2023.11.28 ~ 2023.12.13  
 >  
 >기술 스택:  
@@ -68,18 +68,15 @@
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/cbp)
 
----
-<hr>
-### Medit
+</br></br></br>
+
+### 🏥👩‍⚕️Medit
 >ResNet50 모델을 활용한 TTA-CXR 분석 기반 폐 질환 진단 서비스 : medit
->오진을 방지하고 효과적인 치료 계획을 설립, 의사 결정에 도움을 주고자 만든 서비스 (팀 프로젝트)
+>오진을 방지하고 효과적인 치료 계획을 설립, 의사 결정에 도움을 주고자 만든 서비스 (팀 프로젝트) </br>
 >개발 기간 : 2024. 01. 17 ~ 2024. 03. 06
 >
->기술 스택 ▼
+>기술 스택:</br>
 >Java / SpringBoot / Python / Oracle / HTML / CSS / Javascript / JQuery / AWS
+>
 >[프로젝트 상세 설명](https://github.com/not-null-i-want/medit/blob/main/README.md)
 
-
-
-
-![Byeonghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon801)
