@@ -3,14 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=The%20beautiful%20thing%20aboutlearning%20is-nl-that%20no%20one%20can%20take%20it%20away%20from%20you.&fontSize=40&animation=fadeIn&strokeWidth=&fontAlignY=20)
 
 </div>
-</br>
-</br>
 
-## :pushpin: 김병훈 포트폴리오
-
+</br>
+:pushpin: 김병훈 포트폴리오
 <div align="center">
 
-  
 ### 훌륭한 백엔드 개발자를 목표로 하고 있으며, 끊임없이 성장하는 개발자가 되고 싶습니다.
 
 
@@ -33,9 +30,12 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/jsp-66CDAA?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Servlet-556B2F?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-111111?style=for-the-badge&logo=MyBatis&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -50,7 +50,6 @@
   
 ## :pushpin: Contact
 - E-mail: pqudgns0801@gmail.com
-- 블로그: 
 - GitHub: https://github.com/hoon801/
 
 </br>
