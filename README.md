@@ -50,6 +50,7 @@
 ## :pushpin: Contact
 - E-mail: pqudgns0801@gmail.com
 - GitHub: https://github.com/hoon801/
+- Notion: https://bh0801.notion.site/bfd51c438df44ae48cf22c25e6efe519
 
 </br>
 
